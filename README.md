@@ -1,1 +1,1 @@
-# NLP_Trigram_MLP_Manual_CrossEntrop
+# NLP_Trigram_MLP
